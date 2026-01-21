@@ -1,4 +1,3 @@
-import React from "react";
 import LargeTitle from "./LargeTitle";
 import { testimonials } from "../utils/constants";
 
